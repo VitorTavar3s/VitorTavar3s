@@ -6,5 +6,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=VitorTavar3s&show_icons=true&theme=transparent" />
   </a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r
-https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorTavar3s&theme=transparent&layout=compact&langs_count=6" />
+  </a>
+</div>
